@@ -22,7 +22,7 @@ ____/______/______/______/______/_____"=.o|o_.--""___/______/______/______/____
 ''')
 print("Welcome to Treasure Island.")
 print("Your mission is to find the treasure.")
-choice1 = input('ypu are the the cross road,'
+choice1 = input('you are at the cross road,'
                 ' where you wanted to go?'
                 ' "left or "right.\n' ).lower()
 
